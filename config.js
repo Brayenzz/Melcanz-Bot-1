@@ -12,7 +12,7 @@ global.APIKeys = {
 
 global.packname = 'github.com/valdarafii'
 global.author = '© Rafi'
-global.wm = '© XyzXx'
+global.wm = '© NyzXx'
 global.eror = '*Error*'
 global.wait = '*tunggu..*'
 global.benar = '✅'
