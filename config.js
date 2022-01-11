@@ -1,7 +1,7 @@
 let fs = require('fs')
 let chalk = require('chalk')
 
-global.owner = ['6285865739091', '6287755080455']
+global.owner = ['62852164900260', '6287755080455']
 
 global.APIs = {
   amel: 'https://melcanz.com',
@@ -10,9 +10,9 @@ global.APIKeys = {
   'https://melcanz.com': 'ghPg4NVg'
 }
 
-global.packname = 'github.com/Excpa'
-global.author = '© NyyXz'
-global.wm = '© Exc'
+global.packname = 'github.com/valdarafii'
+global.author = '© Rafi'
+global.wm = '© XyzXx'
 global.eror = '*Error*'
 global.wait = '*tunggu..*'
 global.benar = '✅'
