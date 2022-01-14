@@ -7,7 +7,7 @@ global.APIs = {
   amel: 'https://melcanz.com',
 }
 global.APIKeys = {
-  'https://melcanz.com': 'ghPg4NVg'
+  'https://melcanz.com': '9Vr2yhyM'
 }
 
 global.packname = 'github.com/valdarafii'
